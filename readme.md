@@ -1,1 +1,1 @@
-this is day 7 task questions answers
+this is day 7 task completed
